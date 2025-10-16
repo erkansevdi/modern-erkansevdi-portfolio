@@ -22,7 +22,7 @@ export default function HomePage() {
           >
             <div className="mx-auto w-44 h-56 rounded-3xl overflow-hidden ring-4 ring-sky-400/30 shadow-[0_0_25px_rgba(56,189,248,0.25)] mb-6">
               <Image
-                src="/profil.png"
+                src="/profile.jpg"
                 alt="Erkan Sevdi"
                 width={176}
                 height={224}
