@@ -26,7 +26,7 @@ export default function HomePage() {
                 alt="Erkan Sevdi"
                 width={176}
                 height={224}
-                className="object-cover object-top"
+                className="object-cover object-center rounded-3xl"
                 priority
               />
             </div>
